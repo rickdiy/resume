@@ -1,0 +1,64 @@
+Richard Gannaway(1)                             USER COMMANDS                             Richard Gannaway(1)
+
+NAME
+       Richard Gannaway - DevOps and CyberSecurity Engineer
+
+SYNOPSIS
+       Passionate about automating processes using bash scripting and infrastructure as code.
+
+DESCRIPTION
+       DevOps and Cyber Security Engineer with broad knowledge of Cloud Infrastructure and Software Delivery
+       technologies. Writes clear technical documentation to support process improvement and automation goals.
+       Organizer of the DevOps 207 Meetup.
+
+WORK HISTORY
+       Covetrus (2020 - Present)
+              Senior DevOps Engineer and Scrum Master
+
+              As the leader of a nine-member DevOps team, I work on Covetrus’ next generation practice management platform. 
+              I use Agile methodologies to assign and track tasks for my team, and ensure smooth collaboration with thirteen 
+              cross-functional software development teams. I also serve as a full time individual contributor, writing many 
+              of the terraform modules used for deploying and maintaining our cloud infrastructure in AWS, writing technical 
+              documentation, and provisioning CI/CD pipelines for new micro-services.  I have also lead several major initiatives,
+              such as migrating Confluent Kafka to private dedicated environments and migrating services from ECS to EKS.
+
+       CapitalOne (2019 - 2020)
+              Senior Associate – Cyber Technical. 
+              
+              BlueTarp Financial was acquired by CapitalOne; one month after CapitalOne suffered one of the largest financial security 
+              breaches in US history. At this time, I was the only engineer working in CyberSecurity for BlueTarp. I was responsible for 
+              auditing our systems and providing evidence for both federal investigators as well as CapitalOne's corporate cyber security teams. 
+              Based on findings from these audits, along with findings from bug bounty programs; I devised and executed on remediation 
+              projects to harden our systems.
+
+       BlueTarp Financial (2018 - 2019)
+              Information Security Engineer | Systems Engineer
+
+              At BlueTarp, I began as their sole Systems Engineer. Their internal IT Support team was preforming most of their responsibilities 
+              manually and their technical debt was threatening the continued operation of the company.  After a year in this position, I had automated 
+              every aspect of workstation administration, implemented backup solutions, SAN and network appliances. I was then promoted to Information 
+              Security Engineer where I orchestrated IAM policies in GCP, wrote scripts to automate auditing GCP resources, hardened our PCI environment, 
+              oversaw penetration tests and conducted remediation efforts based on their findings.
+              
+
+       Vets First Choice (2016 - 2018)
+              IT Support Specialist | Executive Support. 
+              
+              Provided 24/7 technical support and white glove service.
+
+EDUCATION
+       University of Southern Maine
+              Bachelor of Psychology, 2015.
+
+EXPERTISE
+       - Terraform, Bash, Confluent Kafka, Kubernetes, AWS, Harness.io Continuous Delivery, Agile, GitLab,
+         Cloudflare, ElasticSearch, GitHub, Splunk, PowerShell, Jenkins, Spot.io.
+
+FILES
+       Resume available in markdown and man page format.
+
+AUTHOR
+       Written by Richard Gannaway.
+
+COPYRIGHT
+       Richard Gannaway, 2023.
