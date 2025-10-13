@@ -23,7 +23,7 @@ WORK HISTORY
               such as migrating Confluent Kafka to private dedicated environments and migrating services from ECS to EKS.
 
        CapitalOne (2019 - 2020)
-              Senior Associate – Cyber Technical. 
+              Senior Associate – Cyber Technical
               
               BlueTarp Financial was acquired by CapitalOne; one month after CapitalOne suffered one of the largest financial security 
               breaches in US history. At this time, I was the only engineer working in CyberSecurity for BlueTarp. I was responsible for 
