@@ -13,9 +13,14 @@ DESCRIPTION
 
 WORK HISTORY
        Covetrus (2020 - Present)
-              Senior DevOps Engineer and Scrum Master
+              DevOps Manager - Cloud Infrastructure (Jan 2024 - Present)
+              Lead a team responsible for Covetrus' AWS and Azure cloud infrastructure. 
+              We wrote and maintained Terraform-based infrastructure as code and apply platform engineering principles to deliver secure, 
+              scalable, self-service platforms for development teams.
 
-              As the leader of a nine-member DevOps team, I work on Covetrus’ next generation practice management platform. 
+              Senior DevOps Engineer and Scrum Master (2020 - Dec 2023)
+
+              As the leader of a nine-member DevOps team, I worked on Covetrus’ next generation practice management platform. 
               I use Agile methodologies to assign and track tasks for my team, and ensure smooth collaboration with thirteen 
               cross-functional software development teams. I also serve as a full time individual contributor, writing many 
               of the terraform modules used for deploying and maintaining our cloud infrastructure in AWS, writing technical 
@@ -51,7 +56,7 @@ EDUCATION
               Bachelor of Psychology, 2015.
 
 EXPERTISE
-       - Terraform, Bash, Confluent Kafka, Kubernetes, AWS, Harness.io Continuous Delivery, Agile, GitLab,
+       - Terraform, Bash, Confluent Kafka, Kubernetes, AWS, Azure, Harness.io Continuous Delivery, Agile, GitLab,
          Cloudflare, ElasticSearch, GitHub, Splunk, PowerShell, Jenkins, Spot.io.
 
 FILES

@@ -1,13 +1,16 @@
 # Richard Gannaway
 ## DevOps and CyberSecurity Engineer
 
-I am a DevOps and Cyber Security Engineer with a passion for automating processes using bash scripting and infrastructure as code. I have a broad knowledge of Cloud Infrastructure and Software Delivery technologies, such as Kubernetes, Terraform, AWS, Harness and more. I can also write clear and concise technical documentation to support your process improvement and automation goals. As an organizer of the DevOps 207 Meetup, I enjoy supporting my local IT community and evangelizing about DevOps principles.
+I am a DevOps and Cyber Security Engineer with a passion for automating processes using bash scripting and infrastructure as code. I have a broad knowledge of Cloud Infrastructure and Software Delivery technologies, such as Kubernetes, Terraform, AWS, Azure, Harness and more. I can also write clear and concise technical documentation to support your process improvement and automation goals. As an organizer of the DevOps 207 Meetup, I enjoy supporting my local IT community and evangelizing about DevOps principles.
 
 ## Recent Work History
 
 ### 2020 - Present
-**Covetrus** - 12 Mountfort St. Portland, ME (remote)  
-**Senior DevOps Engineer and Scrum Master**  
+**Covetrus** - 12 Mountfort St. Portland, ME (Remote)  
+**DevOps Manager - Cloud Infrastructure (Jan 2024 - Present)**  
+Leading a team responsible for Covetrus' AWS and Azure cloud infrastructure. We write and maintain Terraform-based infrastructure as code and apply platform engineering principles to deliver secure, scalable, self-service platforms for development teams. Our platform resides primarily in Kubernetes (Both AKS and EKS) and leverages cutting edge technology to provide fast and resilient operations to our development teams and customers. We use Kong Enterprise Gateway to manage ingress, Kong Service Mesh to manage internal across clusters, and CloudFlare WAF to filter external traffic. We leverage Spot instancing (even in production!) to drastically reduce costs. Our team heavily leverages GitHub Copilot to enhance the speed and quality of our work. 
+
+**Senior DevOps Engineer and Scrum Master (2020 - Dec 2023)**  
 As the leader of a nine-member DevOps team, I work on Covetrus’ next generation practice management platform. I use Agile methodologies to assign and track tasks for my team, and ensure smooth collaboration with thirteen cross-functional software development teams. I also serve as a full time individual contributor, writing many of the terraform modules used for deploying and maintaining our cloud infrastructure in AWS, writing technical documentation, and provisioning CI/CD pipelines for new micro-services. I have also lead several major initiatives, such as migrating Confluent Kafka to private dedicated environments and migrating services from ECS to EKS.
 
 ### 2019 - 2020
@@ -32,15 +35,22 @@ Bachelor of Psychology | 2015
 
 ## Areas of Expertise
 
+- Large Language Models (LLMs)
+- Peer Programming with Copilot and OpenAI Codex Agents
 - Terraform
-- Bash
+- Bash / Shell Scripting
 - Confluent Kafka
 - Kubernetes
 - AWS
-- Harness.io Continuous Delivery
+- Azure
+- Kong Enterprise Gateway and Service Mesh
+- Harness.io Continuous Delivery and Software Engineering Insights (SEI)
+- Jira
+- Azure DevOps (ADO)
 - Agile
 - GitLab
-- Cloudflare
+- GitHub
+- CloudFlare
 - ElasticSearch
 - GitHub
 - Splunk
