@@ -52,7 +52,6 @@ Bachelor of Psychology | 2015
 - GitHub
 - CloudFlare
 - ElasticSearch
-- GitHub
 - Splunk
 - PowerShell
 - Jenkins
