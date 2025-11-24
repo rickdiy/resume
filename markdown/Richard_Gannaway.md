@@ -1,3 +1,5 @@
+::: {.resume}
+
 # Richard Gannaway
 ## DevOps and CyberSecurity Engineer
 
@@ -56,3 +58,5 @@ Bachelor of Psychology | 2015
 - PowerShell
 - Jenkins
 - Spot.io
+
+:::
