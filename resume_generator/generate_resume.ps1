@@ -28,13 +28,13 @@ Write-Host "Building PDF from $markdown" -ForegroundColor Cyan
     --css $css `
     --pdf-engine=$wkhtmlPath `
     --pdf-engine-opt=--margin-top `
-    --pdf-engine-opt=0 `
+    --pdf-engine-opt=0.5in `
     --pdf-engine-opt=--margin-bottom `
-    --pdf-engine-opt=0 `
+    --pdf-engine-opt=0.5in `
     --pdf-engine-opt=--margin-left `
-    --pdf-engine-opt=0 `
+    --pdf-engine-opt=0.5in `
     --pdf-engine-opt=--margin-right `
-    --pdf-engine-opt=0 `
+    --pdf-engine-opt=0.5in `
     | Write-Host
 
 if ($LASTEXITCODE -ne 0) {
