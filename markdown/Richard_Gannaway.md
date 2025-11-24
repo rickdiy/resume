@@ -3,6 +3,8 @@
 # Richard Gannaway
 ## DevOps and CyberSecurity Engineer
 
+![](../resume_generator/headshot.JPEG){.headshot}
+
 I am a DevOps and Cyber Security Engineer with a passion for automating processes using bash scripting and infrastructure as code. I have a broad knowledge of Cloud Infrastructure and Software Delivery technologies, such as Kubernetes, Terraform, AWS, Azure, Harness and more. I can also write clear and concise technical documentation to support your process improvement and automation goals. As an organizer of the DevOps 207 Meetup, I enjoy supporting my local IT community and evangelizing about DevOps principles.
 
 ## Recent Work History
