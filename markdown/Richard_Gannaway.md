@@ -3,7 +3,7 @@
 # Richard Gannaway
 ## DevOps Manager · Cloud Infrastructure & Platform Engineering
 
-I am a DevOps Manager specializing in cloud infrastructure and platform engineering across AWS and Azure. I lead DevOps teams building and operating Terraform-based infrastructure, Kubernetes platforms, and secure delivery pipelines that enable product teams to move quickly and safely. As an organizer of the DevOps 207 Meetup in Portland, ME, I am active in my local tech community and enjoy evangelizing DevOps principles and practices as well as helping others break into the field.
+I am a DevOps Manager specializing in cloud infrastructure and platform engineering across AWS and Azure. I lead DevOps teams building and operating Terraform-based infrastructure, Kubernetes platforms, and secure delivery pipelines that enable product teams to move quickly and safely. I'm also an early adopter and advocate for the use of AI coding agents and other LLM based tooling to increase work output speed and quality. As an organizer of the DevOps 207 Meetup in Portland, ME, I am active in my local tech community and enjoy evangelizing DevOps principles and practices as well as helping others break into the field.
 
 ## Recent Work History
 
@@ -58,5 +58,3 @@ Bachelor of Psychology | 2015
 - PowerShell
 - Jenkins
 - Spot.io
-
-:::
