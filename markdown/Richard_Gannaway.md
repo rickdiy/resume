@@ -40,13 +40,15 @@ Bachelor of Psychology | 2015
 
 ## Areas of Expertise
 
-**Scripting**
+::: {.expertise-columns}
+::: {.col}
+### Scripting
 - Terraform
 - Bash/Zsh
 - PowerShell
 - Python
 
-**Software Develpment Tooling**
+### Software Development Tooling
 - Harness.io - Continuous Delivery and Software Engineering Insights (SEI)
 - Jenkins
 - GitLab
@@ -54,7 +56,7 @@ Bachelor of Psychology | 2015
 - Large Language Models (LLMs)
 - Peer Programming with GitHub Copilot and OpenAI Codex Agents
 
-**Cloud Infrastructure**
+### Cloud Infrastructure
 - AWS
 - Azure
 - Confluent Kafka
@@ -62,20 +64,24 @@ Bachelor of Psychology | 2015
 - Kong Enterprise Gateway and Service Mesh
 - CloudFlare
 - Spot.io
+:::
 
-**Monitoring, Alerting and Observability**
+::: {.col}
+### Monitoring, Alerting and Observability
 - ElasticSearch
 - Splunk
 - Dynatrace
 - PagerDuty
 
-**Project Management and Issue Tracking**
+### Project Management and Issue Tracking
 - Jira
 - Azure DevOps Boards (ADO)
 - Agile
 - Scrum
 
-**Documentation**
+### Documentation
 - Sharepoint
 - Confluence
 - Notion
+:::
+:::
